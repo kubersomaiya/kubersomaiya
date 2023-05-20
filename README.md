@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kubersomaiya
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analysis and App Development
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ,
 - you can mail me on kubersomaiya@gmail.com 
