@@ -11,7 +11,7 @@
 ## Projects
 
 Attaching the link to my resume which contains all the details about projects and professional experience
-**Resume** : https://flowcv.com/resume/vwjaaoe69l
+## Resume : https://flowcv.com/resume/vwjaaoe69l
 
 ## Skills
 
