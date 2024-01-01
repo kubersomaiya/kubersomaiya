@@ -23,4 +23,4 @@ Attaching the link to my resume which contains all the details about projects an
 ## Connect with Me
 - LinkedIn : https://www.linkedin.com/in/kuber-somaiya-958696229/
 - Instagram : https://www.instagram.com/kubersomaiya/
-Feel free to explore my repositories and connect with me to discuss collaboration or share your thoughts!
+- Feel free to explore my repositories and connect with me to discuss collaboration or share your thoughts!
